@@ -22,19 +22,17 @@ The following components and sections are included in the front-end code:
     ![Popular Products](./public/Screenshots/s2.png)
     PopularProducts: Displaying popular clothing products.
     ![Super Quality and Services](./public/Screenshots/s3.png)
-    ![Super Quality and Services Mobile](./public/Screenshots/s8.png)
     SuperQuality: Providing information about the quality of our products.
     Services: Highlighting the services we offer.
     ![Reviews](./public/Screenshots/s4.png)
-    ![Reviews Mobile](./public/Screenshots/s7.png)
     CustomerReviews: Displaying customer reviews and testimonials.
-    
     ![Subscribe](./public/Screenshots/s6.png)
-    
     Subscribe: Allowing users to sign up for updates and newsletters.
     ![Footer](./public/Screenshots/s5.png)
     Footer: The website's footer section with links and social media icons.
     These components and sections are modular and can be reused and customized as needed.
+    ![Super Quality and Services Mobile](./public/Screenshots/s8.png)
+    ![Reviews Mobile](./public/Screenshots/s7.png)
 
 ## Customization
 You can customize various aspects of the website, including:
