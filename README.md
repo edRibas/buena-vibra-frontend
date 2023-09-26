@@ -28,7 +28,9 @@ The following components and sections are included in the front-end code:
     ![Reviews](./public/Screenshots/s4.png)
     ![Reviews Mobile](./public/Screenshots/s7.png)
     CustomerReviews: Displaying customer reviews and testimonials.
+    
     ![Subscribe](./public/Screenshots/s6.png)
+    
     Subscribe: Allowing users to sign up for updates and newsletters.
     ![Footer](./public/Screenshots/s5.png)
     Footer: The website's footer section with links and social media icons.
